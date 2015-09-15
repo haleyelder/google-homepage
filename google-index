@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <title> Google Homepage </title>
+		  
+    <link href="css/google-style.css" rel="stylesheet">
+
+  </head>
+  
+ <body>
+ 
+	<nav> 
+		<ul>
+			<li> User </li>
+			<li> Gmail </li>
+			<li> Images </li>
+			
+			<img src="img/square.jpg"> <!-- square block -->
+			<img src="img/alerts.jpg"> <!-- alerts clock -->
+			<img src="img/user.jpg"> <!-- profile pic-->
+		</ul>
+	</nav> 
+	
+
+
+	<div id="logo">
+			<img src="img/Google2015.png" height="87px;" width="275px;"> 
+	</div>
+
+	<div id="search">
+		<form> 
+			<input type="search" >
+			
+			<ul> 
+				<li> <a href="#"> Google Search </a> </li>
+				<li> <a href="#"> I'm Feeling Lucky </a></li>
+			</ul>
+				
+		</form>
+	</div>
+	
+
+	
+	<footer> 
+			<ul style="float: left;"> 
+				<li> Advertising  </li>
+				<li> Business </li>
+				<li> About </li>
+			</ul>	
+		
+		
+		
+			<ul style="float: right;"> 
+				<li> Privacy  </li>
+				<li> Terms </li>
+				<li> Settings </li>
+			</ul>	
+		
+		
+	</footer>
+ 
+ </body>
+ 
+ </html>
